@@ -2,3 +2,5 @@
 /sla-app-rest/target
 /sla-app-2/target
 /sla-app-3/target
+/app-data/.idea
+/app-data/app-data.iml
